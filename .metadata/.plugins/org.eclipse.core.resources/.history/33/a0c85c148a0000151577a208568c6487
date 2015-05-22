@@ -1,0 +1,9 @@
+#include <*>
+#include <strings.h>
+#include <stdlib.h>
+
+void fastway
+
+int main(int argc, char **argv) {
+
+}
